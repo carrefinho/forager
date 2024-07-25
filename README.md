@@ -22,14 +22,14 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 | --------- | ----------- | ----- | -------------- |
 | Seeeduino XIAO nRF52840 | - | 2 | Including Sense version; not compatible with other variants of the XIAO including RP2040 and ESP32-C3 |
 | Choc V1 hot swap sockets | CPG135001S30 | 34 | |
-| Diodes | 1N4148W | 34 | Designed for SOD-123; glass MELF diodes may work too
+| Diodes | 1N4148W | 34 | SOD-123 | - |
 | Battery Connector | JST BM02B-ACHSS-GAN / MOLEX 781710002 | 2 (OPTIONAL) | Only required for batteries with JST ACH/Molex ezMate Pico connectors. The two types should be compatible in both PCB footprint and physical connector.
 | Battery | 301230 / 401230 | 2 | Widely available from many keyboard vendors. [Little Keyboards sell ones with JST ACH connectors](https://www.littlekeyboards.com/collections/new-products/products/battery-w-jst-connector) for use with the connector above.
 | SMD M2 Nuts | SMTSO2020MTJ | 10 | https://www.lcsc.com/product-detail/SMD-round-nut_Sinhoo-SMTSO2020MTJ_C2916384.html |
 | Countersunk M2 Screws | - | 18 | Total length 4-5mm. https://www.mcmaster.com/91294A002/
 | Rubber Bumpers | - | 8+ | Anything not too thick will do. https://www.mcmaster.com/95495K18/
 
-### Tenting Legs Parts
+### Tenting Legs
 
 | Part Name | Part Number | Count | Notes |
 | --------- | ----------- | ----- | -------------- |
