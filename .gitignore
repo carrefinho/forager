@@ -1,0 +1,9 @@
+.gitignore file
+# Ignore macOS .DS_Store files in any subdirectory
+**/.DS_Store
+
+# Ignore files and directories with "backup" in the name
+**/*backup*
+
+# Ignore files and directories with "autosave" in the name
+**/*autosave*
