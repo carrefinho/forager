@@ -84,3 +84,10 @@ Images shown are of an older revision of the board, without battery pads for dir
    - Go first on the USB-C port side; make sure it's snug inside the cutout.
    - Once everything fits nicely together, screw it in.
    - You may want hold the top and bottom part together along the edges to make sure they're lined up while screwing in.
+
+## Tenting Legs
+
+- Insert two Pins and two Magnets into the tenting leg. It should be a very tight friction fit.
+   - Apply the adhesive 10mm rubber bumper to the other end.
+- Slot two magnets into the slots inside the case.
+- Make sure all magnets are of the same orientation so that tenting legs all have the same polarity.
