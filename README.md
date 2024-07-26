@@ -33,9 +33,7 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 ## Credits
 
 - [ZSA Voyager](https://www.zsa.io/voyager): overall layout & aesthetics
-
 - [GEIST TOTEM](https://github.com/GEIGEIGEIST/TOTEM): XIAO PCB footprint and general placement
-
 - [Cem Aksoylar's zmk-rgbled-widget](https://github.com/caksoylar/zmk-rgbled-widget): enabling the RGB LED to display ZMK relevant info.
 
 ## Gallery
