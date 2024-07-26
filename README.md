@@ -21,6 +21,10 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 
 [Read the build guide here.](/docs/build-guide.md)
 
+## Firmware
+
+[ZMK config repository.](https://github.com/carrefinho/forager-zmk-module)
+
 ## To-Do
 
 - Detailed Build Guide

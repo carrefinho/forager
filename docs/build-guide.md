@@ -58,7 +58,7 @@ Images shown are of an older revision of the board, without battery pads for dir
       - Apply solder around the perimeter; flux is recommended.
       - Remove the protective tape.
    - ***OPTIONAL*** - Battery Connector
-      - It is recommended to solder these with a hot plate or hot air, since the two mounting pads are difficult to reach an iron and if not soldered properly, the connector may lift off the board entirely when removing the battery.
+      - It is recommended to solder these with a hot plate or hot air, since the two mounting pads are difficult to reach with an iron and if not soldered properly, the connector may lift off the board entirely when removing the battery.
       - Tin one of the mounting pads (the wider ones), place the connector, make sure the electrical pads are lined up and reheat that pad again from the opening side.
       - Solder the other mounting pad and the electrical pads.
    - Battery without connector
@@ -67,9 +67,9 @@ Images shown are of an older revision of the board, without battery pads for dir
 
 ## Case
 
-- Print the four case parts. Pay attention to the print-in-place reset button lever on the base; it might fuse together with the surrounding and get stuck depending on the amount of first layer squish. Adjust z-offset if needed.
+- Print the four case parts. Pay attention to the print-in-place reset lever button on the base; it might fuse together with the surrounding and get stuck depending on the amount of first layer squish. Adjust z-offset if needed.
 
-![case with reset button lever highlighted](/docs/images/build_case_reset.jpg)
+![case with reset lever button highlighted](/docs/images/build_case_reset.jpg)
 
 - Cut two 6mm segments of transparent 3D-printing filament (1.75mm diameter).
    - From the inside, insert one into the slot in the case.
