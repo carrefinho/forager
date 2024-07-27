@@ -73,7 +73,7 @@ Images shown are of an older revision of the board, without battery pads for dir
 
 - Cut two 6mm segments of transparent 3D-printing filament (1.75mm diameter).
    - From the inside, insert one into the slot in the case.
-   - It might need some convincing; use a small pointy tool like an allen key to push it through the hole and then adjust back until it's flush with the case.
+   - It might require some convincing; use a small pointy tool like an allen key to push it through the hole and then adjust back until it's flush with the case.
 
    ![case light guide 1](/docs/images/build_case_lg_1.jpg)
    ![case light guide 2](/docs/images/build_case_lg_2.jpg)
@@ -89,5 +89,5 @@ Images shown are of an older revision of the board, without battery pads for dir
 
 - Insert two Pins and two Magnets into the tenting leg. It should be a very tight friction fit.
    - Apply the adhesive 10mm rubber bumper to the other end.
-- Slot two magnets into the slots inside the case.
+- Install two magnets into the cutouts inside the bottom case.
 - Make sure all magnets are of the same orientation so that tenting legs all have the same polarity.
