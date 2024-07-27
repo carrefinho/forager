@@ -1,22 +1,26 @@
 # Forager
 
-> Why does the larger Voyager not simply eat the smaller Forager?
+> why does the larger Voyager not simply eat the small Forager?
 
 Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered by ZMK.
 
-![Forager keyboard in white](/docs/images/forager_white.jpg)
-![Forager keyboard with magnetic tenting legs attached](/docs/images/forager_tented.jpg)
-![Forager keyboard with LED indicater lit up blue](/docs/images/forager_led.jpg)
+![Forager keyboard in black and white](/docs/images/forager_bw.jpg)
 
 ## Design
 
 - Condensed [ZSA Voyager](https://www.zsa.io/voyager) layout without outer pinkie column and number row
+- Hot-swap Kailh Choc V1 switches in Choc (18x17mm) spacing
 - Wireless only with Seeed XIAO nRF52840 running ZMK firmware
 - Magnetic tenting legs inspired by Voyager and [Unicorne](https://www.boardsource.xyz/products/unicorne)
+
+![Forager keyboard with magnetic tenting legs attached](/docs/images/forager_tented.jpg)
+
 - Compact silhouette that eliminates the usual blank space occupied by the controller board
 - Fully enclosed with 3D-printed two-piece case
 - Minimal BOM by making use of XIAO nRF52840's onboard reset button and RGB LED
-- Hot-swap Kailh Choc V1 switches in Choc (18x17mm) spacing
+
+![Forager keyboard with LED indicater lit up in blue](/docs/images/forager_led.jpg)
+
 
 ## Build Guide and Parts List
 
@@ -39,5 +43,5 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 
 ## Gallery
 
-![Forager keyboard in black and white](/docs/images/forager_bw.jpg)
+![Forager keyboard in white](/docs/images/forager_white.jpg)
 ![Forager keyboard with detached tenting leg](/docs/images/forager_legs.jpg)
