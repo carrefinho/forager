@@ -4,7 +4,7 @@
 
 Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered by ZMK.
 
-![Forager keyboard in black and white](/docs/images/forager_bw.jpg)
+![Forager keyboard in black](/docs/images/forager_bob.jpg)
 
 ## Design
 
@@ -44,4 +44,5 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 ## Gallery
 
 ![Forager keyboard in white](/docs/images/forager_white.jpg)
+![Forager keyboard in black and white](/docs/images/forager_bw.jpg)
 ![Forager keyboard with detached tenting leg](/docs/images/forager_legs.jpg)

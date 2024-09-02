@@ -16,7 +16,7 @@
 
 | Part Name | Part Number | Count | Notes |
 | --------- | ----------- | ----- | ----- |
-| 3D-printed Case | - | 2 | [Files here.](../case/) Designed for FDM but should print just fine with SLA, MJF, etc..
+| 3D-printed Case | - | 4 | [Files here.](../case/) Designed for FDM. Some walls may be too thin for certain technologies.
 | Countersunk M2 Screws | - | 18 | Total length 4-5mm. https://www.mcmaster.com/91294A002/
 | Rubber Bumpers | - | 8+ | Anything not too thick will do. https://www.mcmaster.com/95495K18/
 | LED Light Guide | - | 2 | 1.75mm  transparent filament segment, 6mm length |
@@ -31,7 +31,7 @@
 
 ## PCB
 
-Forager is designed for surface mounting the controller board, therefore it's not compatible with sockets.
+Forager is designed exclusively for surface mounting the controller board, therefore it's not compatible with sockets.
 
 This guide assumes that you're using a soldering iron; you can use a hot plate or hot air gun with solder paste. Low temp paste is preferred if you'd like to remove the XIAO later since it's less likely to mess up components on the XIAO itself.
 
@@ -48,7 +48,7 @@ Images shown are of an older revision of the board, without battery pads for dir
    - XIAO nRF52840
       - Solder two pads on opposite corners first to anchor it in place. Make sure it is lined up with the pads both horizontally and vertically.
       - Solder all remaining pads.
-      - Flip the board over and solder the pin marked with a circle; this is the battery+ pin. You might need to stick the iron in the cutout to make sure it bonds with the pad on the XIAO properly. Flip the board back around.
+      - Flip the board over and solder the pin marked with a circle; this is the battery+ pin. You may want to stick the iron in the cutout to make sure solder bonds with the pad properly. Flip the board back around.
    - Hot-swap sockets and diodes
       - Tin one pad first to anchor the diode/socket in place.
       - Solder the other pad.
