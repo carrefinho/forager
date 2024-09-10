@@ -47,6 +47,6 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 
 ## Gallery
 
-![Forager keyboard in black](/docs/images/forager_bob.jpg)
 ![Forager keyboard in black and white](/docs/images/forager_bw.jpg)
 ![Forager keyboard with detached tenting leg](/docs/images/forager_legs.jpg)
+![Forager keyboard in black](/docs/images/forager_bob.jpg)
