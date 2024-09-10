@@ -9,7 +9,10 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 ## Design
 
 - Condensed [ZSA Voyager](https://www.zsa.io/voyager) layout without outer pinkie column and number row
-- Hot-swap Kailh Choc V1 switches in Choc (18x17mm) spacing
+- Hot-swap Kailh Choc V1 switches in Choc (18x17mm) spacing with Voyager-esque switch puller grooves
+
+![Switch-plate cutouts](/docs/images/forager_switch.jpg)
+
 - Wireless only with Seeed XIAO nRF52840 running ZMK firmware
 - Magnetic tenting legs inspired by Voyager and [Unicorne](https://www.boardsource.xyz/products/unicorne)
 
