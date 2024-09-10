@@ -69,7 +69,7 @@ Images shown are of an older revision of the board, without battery pads for dir
 
 - Print the four case parts. Pay attention to the print-in-place reset lever button on the base; it might fuse together with the surrounding and get stuck depending on the amount of first layer squish. Adjust z-offset if needed.
 
-![case with reset lever button highlighted](/docs/images/build_case_reset.jpg)
+![case with reset lever button](/docs/images/build_case_reset2.jpg)
 
 - Cut two 6mm segments of transparent 3D-printing filament (1.75mm diameter).
    - From the inside, insert one into the slot in the case.

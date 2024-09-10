@@ -20,9 +20,9 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 
 - Compact silhouette that eliminates the usual blank space occupied by the controller board
 - Fully enclosed with 3D-printed two-piece case
-- Minimal BOM by making use of XIAO nRF52840's onboard reset button and RGB LED
+- Minimal BOM by making use of XIAO nRF52840's onboard RGB LED and reset button
 
-![Forager keyboard with LED indicator lit up in blue](/docs/images/forager_led.jpg)
+![Forager keyboard with LED indicator lit up in blue alongside reset button on the bottom](/docs/images/forager_led_reset.jpg)
 
 
 ## Build Guide and Parts List
