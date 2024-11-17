@@ -1,6 +1,6 @@
 # Forager
 
-> why does the larger Voyager not simply eat the small Forager?
+> why does the large Voyager not simply eat the small Forager?
 
 Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered by ZMK.
 
@@ -31,7 +31,7 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 
 ## Firmware
 
-[ZMK config repository.](https://github.com/carrefinho/forager-zmk-module)
+[ZMK module repository.](https://github.com/carrefinho/forager-zmk-module)
 
 ## To-Do
 
