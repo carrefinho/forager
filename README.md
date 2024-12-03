@@ -18,32 +18,27 @@ Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered
 
 ![Forager keyboard with magnetic tenting legs attached](/docs/images/forager_tented.jpg)
 
-- Compact silhouette that eliminates the usual blank space occupied by the controller board
+- Compact silhouette without the usual blank space occupied by the controller board
 - Fully enclosed with 3D-printed two-piece case
-- Minimal BOM by making use of XIAO nRF52840's onboard RGB LED and reset button
+- Minimal BOM by utilizing XIAO nRF52840's onboard RGB LED and reset button
 
 ![Forager keyboard with LED indicator lit up in blue alongside reset button on the bottom](/docs/images/forager_led_reset.jpg)
 
 
 ## Build Guide and Parts List
 
-[Read the build guide here.](/docs/build-guide.md)
+[Find the build guide here.](/docs/build-guide.md)
 
 ## Firmware
 
-[ZMK module repository.](https://github.com/carrefinho/forager-zmk-module)
-
-## To-Do
-
-- Detailed Build Guide
-- Potential 36-key option
+[Find the ZMK module here.](https://github.com/carrefinho/forager-zmk-module)
 
 ## Credits
 
 - [ZSA Voyager](https://www.zsa.io/voyager): overall layout & aesthetics
-- [GEIST TOTEM](https://github.com/GEIGEIGEIST/TOTEM): XIAO PCB footprint and general placement
-- [marbastlib](https://github.com/ebastler/marbastlib): symbols and PCB footprints
-- [Cem Aksoylar's zmk-rgbled-widget](https://github.com/caksoylar/zmk-rgbled-widget): enables the RGB LED to display ZMK relevant info
+- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM): XIAO PCB footprint and general placement
+- [ebastler/marbastlib](https://github.com/ebastler/marbastlib): symbols and PCB footprints
+- [caksoylar/zmk-rgbled-widget](https://github.com/caksoylar/zmk-rgbled-widget): enables the RGB LED to display ZMK relevant info
 
 ## Gallery
 
