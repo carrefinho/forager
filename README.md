@@ -2,9 +2,9 @@
 
 # Forager
 
-> why does the large Voyager not simply eat the small Forager?
-
 Forager is a Voyager-inspired 34-key low-profile wireless split keyboard powered by ZMK.
+
+> why does the large Voyager not simply eat the small Forager?
 
 ## Design
 
