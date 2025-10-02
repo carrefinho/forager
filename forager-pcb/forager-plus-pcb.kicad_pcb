@@ -12248,17 +12248,6 @@
 			)
 		)
 	)
-	(gr_circle
-		(center 107.810753 -35.548753)
-		(end 109.010753 -35.548753)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "1fe5b289-8af7-493a-80b8-8361d2a4f850")
-	)
 	(gr_rect
 		(start 46 1)
 		(end 80 15)
