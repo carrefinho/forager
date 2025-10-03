@@ -2337,18 +2337,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -90)
-			)
-		)
-		(model "/Users/peterjc/Downloads/xiao-nrf52840-sense-plus-v3.step"
-			(offset
-				(xyz -6.1 -1.7 -1.6)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 -90)
+				(xyz -90 0 -90)
 			)
 		)
 	)
