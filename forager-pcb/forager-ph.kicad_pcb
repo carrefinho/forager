@@ -2038,6 +2038,17 @@
 				(xyz 0 0 -90)
 			)
 		)
+		(model "${KIPRJMOD}/XIAO-nRF52840 v15.step"
+			(offset
+				(xyz 6.1 -1.7 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "ceoloide:switch_choc_v1_v2"
 		(layer "B.Cu")
