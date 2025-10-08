@@ -12822,11 +12822,11 @@
 		)
 	)
 	(gr_rect
-		(start 46 1)
-		(end 80 15)
+		(start 45.44 1.09)
+		(end 80.44 16.09)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "B.SilkS")
