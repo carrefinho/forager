@@ -16744,19 +16744,6 @@
 			)
 		)
 	)
-	(gr_text "+"
-		(at 91.62 5.25 0)
-		(layer "F.SilkS")
-		(uuid "4933cd6f-98c0-4a55-bab2-c3f2945741c0")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.24)
-				(bold yes)
-			)
-			(justify bottom)
-		)
-	)
 	(gr_text "CLK"
 		(at 116.08 -42.25 270)
 		(layer "F.SilkS")
@@ -16818,19 +16805,6 @@
 		(at 101.195267 0.757253 10)
 		(layer "F.SilkS")
 		(uuid "94f4c4d7-f7d9-4c55-82e9-8faf56989504")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.24)
-				(bold yes)
-			)
-			(justify bottom)
-		)
-	)
-	(gr_text "-"
-		(at 91.62 9.66 0)
-		(layer "F.SilkS")
-		(uuid "bbf54ffb-b213-48f9-a6a9-18bcd6c6363a")
 		(effects
 			(font
 				(size 1.2 1.2)
@@ -18084,38 +18058,12 @@
 		)
 	)
 	(gr_text "-"
-		(at 92.53 5.28 0)
-		(layer "B.SilkS")
-		(uuid "7eb4e926-9336-4460-81c3-22917b634cff")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom mirror)
-		)
-	)
-	(gr_text "-"
 		(at 101.555267 -0.842747 100)
 		(layer "B.SilkS")
 		(uuid "93563bf6-71cb-4ca4-b35c-6b536f8080b8")
 		(effects
 			(font
 				(size 1.2 1.2)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom mirror)
-		)
-	)
-	(gr_text "+"
-		(at 92.53 9.84 0)
-		(layer "B.SilkS")
-		(uuid "c83ceabf-35d9-4e5c-9f88-09fcfd80fb44")
-		(effects
-			(font
-				(size 1.5 1.5)
 				(thickness 0.3)
 				(bold yes)
 			)
