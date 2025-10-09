@@ -15082,17 +15082,6 @@
 		(uuid "dee908b5-5116-48d7-8502-dac438a5415d")
 	)
 	(gr_rect
-		(start 46 1)
-		(end 80 15)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "B.SilkS")
-		(uuid "4aa921b9-ef66-4d56-ac7c-ec0975af52f5")
-	)
-	(gr_rect
 		(start 103.685267 -2.617747)
 		(end 114.605267 3.932253)
 		(stroke
@@ -15102,6 +15091,17 @@
 		(fill no)
 		(layer "B.SilkS")
 		(uuid "63931088-b10a-4fa9-a368-e5b313cbe2a4")
+	)
+	(gr_rect
+		(start 45.694359 1.696842)
+		(end 80.694359 16.696842)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "4aa921b9-ef66-4d56-ac7c-ec0975af52f5")
 	)
 	(gr_line
 		(start 82.05 -23.95)
@@ -18132,6 +18132,18 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "Battery\ncutout"
+		(at 63.194359 16.696842 0)
+		(layer "Dwgs.User")
+		(uuid "04a70089-83f3-4ebc-860b-c398febcd0ff")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.5)
+			)
+			(justify bottom)
 		)
 	)
 	(segment
